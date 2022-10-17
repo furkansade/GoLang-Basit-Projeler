@@ -19,3 +19,20 @@ func main() {
 	}
 
 }
+
+// IKNCI YOL
+
+// package main
+
+// import "fmt"
+
+// func main(){
+//   fmt.Println(factVal(6))
+// }
+
+// func factVal(num int) int {
+//   if num == 0 {
+//     return 1
+//   }
+//   return num * factVal(num - 1)
+// }
